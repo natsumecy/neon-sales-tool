@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Chest shadow -->
+  <rect x="10" y="30" width="44" height="26" rx="2" fill="#5D4037"/>
+  <!-- Chest body (bottom) -->
+  <rect x="8" y="30" width="48" height="24" rx="2" fill="#8B5E3C"/>
+  <!-- Chest body darker band -->
+  <rect x="8" y="30" width="48" height="4" fill="#6D4C2E"/>
+  <!-- Chest lid -->
+  <path d="M8,30 Q8,14 32,14 Q56,14 56,30 Z" fill="#A0714F"/>
+  <!-- Lid highlight -->
+  <path d="M12,28 Q12,18 32,18 Q52,18 52,28 Z" fill="#B8845A" opacity="0.5"/>
+  <!-- Metal bands -->
+  <rect x="6" y="28" width="52" height="4" rx="1" fill="#DAA520"/>
+  <rect x="26" y="14" width="12" height="40" rx="1" fill="#DAA520" opacity="0.3"/>
+  <!-- Lock -->
+  <rect x="27" y="26" width="10" height="12" rx="2" fill="#DAA520"/>
+  <rect x="29" y="28" width="6" height="8" rx="1" fill="#C4900A"/>
+  <circle cx="32" cy="33" r="2" fill="#DAA520"/>
+  <!-- Chest bottom band -->
+  <rect x="6" y="50" width="52" height="3" rx="1" fill="#DAA520"/>
+  <!-- Shine on lid -->
+  <ellipse cx="24" cy="22" rx="6" ry="3" fill="#D4A76A" opacity="0.4"/>
+</svg>

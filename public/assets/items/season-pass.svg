@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Ticket body -->
+  <rect x="6" y="14" width="52" height="36" rx="4" fill="#2ECC71"/>
+  <!-- Ticket notches -->
+  <circle cx="6" cy="32" r="5" fill="white"/>
+  <circle cx="58" cy="32" r="5" fill="white"/>
+  <!-- Ticket divider -->
+  <line x1="44" y1="14" x2="44" y2="50" stroke="#27AE60" stroke-width="2" stroke-dasharray="3,3"/>
+  <!-- Ticket darker section -->
+  <rect x="6" y="14" width="38" height="36" rx="4" fill="#27AE60" opacity="0.3"/>
+  <!-- Star emblem -->
+  <polygon points="26,24 28,30 34,30 29,34 31,40 26,36 21,40 23,34 18,30 24,30" fill="#F1C40F"/>
+  <!-- Text lines -->
+  <rect x="14" y="42" width="20" height="2" rx="1" fill="#1E8449" opacity="0.6"/>
+  <rect x="14" y="18" width="14" height="2" rx="1" fill="#1E8449" opacity="0.6"/>
+  <!-- Right section - stub -->
+  <rect x="48" y="22" width="6" height="6" rx="1" fill="#F1C40F" opacity="0.8"/>
+  <rect x="48" y="36" width="6" height="2" rx="1" fill="#1E8449" opacity="0.5"/>
+  <rect x="48" y="40" width="6" height="2" rx="1" fill="#1E8449" opacity="0.5"/>
+</svg>

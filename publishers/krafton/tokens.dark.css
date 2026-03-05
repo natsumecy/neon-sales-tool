@@ -1,0 +1,17 @@
+/* Auto-generated for krafton — dark mode */
+
+[data-publisher="krafton"][data-mode="dark"] {
+  --brand-accent: #6366F1;
+  --text-primary: #F5F5F5;
+  --text-secondary: #E5E5E5;
+  --text-disabled-opacity: 0.3;
+  --bg-primary: #0D0D0D;
+  --bg-selected: #1A1A2E;
+  --bg-text-field: #252525;
+  --stroke-unselected: #737373;
+  --stroke-item-summary: #6366F1;
+  --state-pass: #00B937;
+  --state-forbidden: #FF1717;
+  --drop-shadow-blur: 16px;
+  --drop-shadow-color: #404040;
+}

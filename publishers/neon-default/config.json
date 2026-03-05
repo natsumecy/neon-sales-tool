@@ -1,0 +1,148 @@
+{
+  "slug": "neon-default",
+  "name": "Neon",
+  "gameName": "Knights Quest",
+  "createdAt": "2026-03-03T18:35:10.100Z",
+  "updatedAt": "2026-03-03T18:35:10.100Z",
+  "products": {
+    "webshop": true,
+    "directCheckout": true,
+    "webCheckout": true
+  },
+  "preview": {
+    "passwordEnabled": false,
+    "password": ""
+  },
+  "promo": {
+    "enabled": true,
+    "code": "DISCOUNT10",
+    "discountPercent": 10
+  },
+  "simulatedItem": {
+    "name": "1200 Gems",
+    "price": "$9.99",
+    "asset": "gems",
+    "discountLabel": "15% OFF"
+  },
+  "freeGift": {
+    "name": "Bonus Chest x 1",
+    "asset": "chest"
+  },
+  "offerCards": {
+    "generated": [
+      {
+        "id": "gen-1",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "BEST VALUE",
+        "discountBadge": "+30% MORE",
+        "itemName": "Royal Bundle + 5000 Gems",
+        "itemAsset": "gems",
+        "price": "$49.99",
+        "source": "generated"
+      },
+      {
+        "id": "gen-2",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+20% MORE",
+        "itemName": "2500 Gems",
+        "itemAsset": "gems",
+        "price": "$24.99",
+        "source": "generated"
+      },
+      {
+        "id": "gen-3",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "MOST POPULAR",
+        "discountBadge": "+15% MORE",
+        "itemName": "1200 Gems",
+        "itemAsset": "gems",
+        "price": "$9.99",
+        "selected": true,
+        "source": "generated"
+      },
+      {
+        "id": "gen-4",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+10% MORE",
+        "itemName": "500 Gems",
+        "itemAsset": "gems",
+        "price": "$4.99",
+        "source": "generated"
+      },
+      {
+        "id": "gen-5",
+        "layout": "vertical",
+        "backgroundStyle": "gradient",
+        "discountLabel": "LIMITED",
+        "itemName": "Season Pass",
+        "itemAsset": "season-pass",
+        "price": "$14.99",
+        "source": "generated"
+      }
+    ],
+    "selected": [
+      {
+        "id": "gen-1",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "BEST VALUE",
+        "discountBadge": "+30% MORE",
+        "itemName": "Royal Bundle + 5000 Gems",
+        "itemAsset": "gems",
+        "price": "$49.99",
+        "source": "generated"
+      },
+      {
+        "id": "gen-2",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+20% MORE",
+        "itemName": "2500 Gems",
+        "itemAsset": "gems",
+        "price": "$24.99",
+        "source": "generated"
+      },
+      {
+        "id": "gen-3",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "MOST POPULAR",
+        "discountBadge": "+15% MORE",
+        "itemName": "1200 Gems",
+        "itemAsset": "gems",
+        "price": "$9.99",
+        "selected": true,
+        "source": "generated"
+      },
+      {
+        "id": "gen-4",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+10% MORE",
+        "itemName": "500 Gems",
+        "itemAsset": "gems",
+        "price": "$4.99",
+        "source": "generated"
+      },
+      {
+        "id": "gen-5",
+        "layout": "vertical",
+        "backgroundStyle": "gradient",
+        "discountLabel": "LIMITED",
+        "itemName": "Season Pass",
+        "itemAsset": "season-pass",
+        "price": "$14.99",
+        "source": "generated"
+      }
+    ]
+  },
+  "claudeCode": {
+    "lastRun": "2026-03-03T18:35:10.100Z",
+    "tokensExtracted": true,
+    "cardsGenerated": true
+  }
+}

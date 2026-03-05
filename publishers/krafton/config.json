@@ -1,0 +1,146 @@
+{
+  "slug": "krafton",
+  "name": "KRAFTON",
+  "gameName": "Battlegrounds Mobile",
+  "createdAt": "2026-03-03T18:35:10.100Z",
+  "updatedAt": "2026-03-03T18:38:44.354Z",
+  "products": {
+    "webshop": true,
+    "directCheckout": true,
+    "webCheckout": true
+  },
+  "preview": {
+    "passwordEnabled": false,
+    "password": ""
+  },
+  "promo": {
+    "enabled": true,
+    "code": "",
+    "discountPercent": 0
+  },
+  "simulatedItem": {
+    "name": "950 UC",
+    "price": "$9.49",
+    "asset": "coins",
+    "discountLabel": "10% OFF"
+  },
+  "freeGift": {
+    "name": "Free Crate x 2",
+    "asset": "chest"
+  },
+  "offerCards": {
+    "generated": [
+      {
+        "id": "k-1",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "BEST VALUE",
+        "discountBadge": "+25% MORE",
+        "itemName": "Elite Pass + 4800 UC",
+        "itemAsset": "coins",
+        "price": "$44.99",
+        "source": "generated"
+      },
+      {
+        "id": "k-2",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+20% MORE",
+        "itemName": "1800 UC",
+        "itemAsset": "coins",
+        "price": "$18.49",
+        "source": "generated"
+      },
+      {
+        "id": "k-3",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "MOST POPULAR",
+        "discountBadge": "+15% MORE",
+        "itemName": "950 UC",
+        "itemAsset": "coins",
+        "price": "$9.49",
+        "selected": true,
+        "source": "generated"
+      },
+      {
+        "id": "k-4",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+10% MORE",
+        "itemName": "420 UC",
+        "itemAsset": "coins",
+        "price": "$4.79",
+        "source": "generated"
+      },
+      {
+        "id": "k-5",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "itemName": "180 UC",
+        "itemAsset": "coins",
+        "price": "$1.99",
+        "source": "generated"
+      }
+    ],
+    "selected": [
+      {
+        "id": "k-1",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "BEST VALUE",
+        "discountBadge": "+25% MORE",
+        "itemName": "Elite Pass + 4800 UC",
+        "itemAsset": "coins",
+        "price": "$44.99",
+        "source": "generated"
+      },
+      {
+        "id": "k-2",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+20% MORE",
+        "itemName": "1800 UC",
+        "itemAsset": "coins",
+        "price": "$18.49",
+        "source": "generated"
+      },
+      {
+        "id": "k-3",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "MOST POPULAR",
+        "discountBadge": "+15% MORE",
+        "itemName": "950 UC",
+        "itemAsset": "coins",
+        "price": "$9.49",
+        "selected": true,
+        "source": "generated"
+      },
+      {
+        "id": "k-4",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+10% MORE",
+        "itemName": "420 UC",
+        "itemAsset": "coins",
+        "price": "$4.79",
+        "source": "generated"
+      },
+      {
+        "id": "k-5",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "itemName": "180 UC",
+        "itemAsset": "coins",
+        "price": "$1.99",
+        "source": "generated"
+      }
+    ]
+  },
+  "claudeCode": {
+    "lastRun": "2026-03-03T18:35:10.100Z",
+    "tokensExtracted": true,
+    "cardsGenerated": true
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Star shadow -->
+  <polygon points="32,6 39,24 58,24 43,36 48,54 32,44 16,54 21,36 6,24 25,24" fill="#CC9900" transform="translate(1,1)"/>
+  <!-- Star body -->
+  <polygon points="32,6 39,24 58,24 43,36 48,54 32,44 16,54 21,36 6,24 25,24" fill="#FFD700"/>
+  <!-- Star highlight -->
+  <polygon points="32,6 39,24 58,24 43,36 32,30" fill="#FFED80" opacity="0.6"/>
+  <polygon points="32,6 25,24 6,24 21,36 32,30" fill="#FFE44D" opacity="0.4"/>
+  <!-- Center shine -->
+  <circle cx="30" cy="28" r="3" fill="#FFF8DC" opacity="0.5"/>
+</svg>

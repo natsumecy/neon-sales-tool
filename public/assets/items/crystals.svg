@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Large crystal shard -->
+  <polygon points="28,4 38,4 42,48 32,60 22,48" fill="#9B59B6"/>
+  <!-- Left facet -->
+  <polygon points="28,4 22,48 32,60 32,30" fill="#8E44AD"/>
+  <!-- Right facet -->
+  <polygon points="38,4 42,48 32,60 32,30" fill="#7D3C98"/>
+  <!-- Top left facet highlight -->
+  <polygon points="28,4 38,4 32,30" fill="#BB77DD"/>
+  <!-- Shine -->
+  <polygon points="30,8 34,8 32,24" fill="#D2A8E0" opacity="0.6"/>
+  <!-- Small crystal left -->
+  <polygon points="10,28 16,24 18,46 12,52 8,46" fill="#A569BD" opacity="0.8"/>
+  <polygon points="10,28 12,52 14,36" fill="#8E44AD" opacity="0.8"/>
+  <!-- Small crystal right -->
+  <polygon points="48,22 54,18 56,42 50,48 46,42" fill="#A569BD" opacity="0.8"/>
+  <polygon points="54,18 56,42 52,32" fill="#7D3C98" opacity="0.8"/>
+  <!-- Sparkles -->
+  <circle cx="20" cy="20" r="1.5" fill="#E8D0F0"/>
+  <circle cx="48" cy="14" r="1.5" fill="#E8D0F0"/>
+  <circle cx="44" cy="50" r="1" fill="#E8D0F0"/>
+</svg>

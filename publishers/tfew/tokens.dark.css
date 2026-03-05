@@ -1,0 +1,17 @@
+/* Auto-generated for tfew — dark mode */
+
+[data-publisher="tfew"][data-mode="dark"] {
+  --brand-accent: #D4A017;
+  --text-primary: #F5F5F5;
+  --text-secondary: #B8B8B8;
+  --text-disabled-opacity: 0.3;
+  --bg-primary: #050D18;
+  --bg-selected: #0C1A30;
+  --bg-text-field: #112240;
+  --stroke-unselected: #1E3050;
+  --stroke-item-summary: #D4A017;
+  --state-pass: #00B937;
+  --state-forbidden: #FF1717;
+  --drop-shadow-blur: 16px;
+  --drop-shadow-color: #020810;
+}

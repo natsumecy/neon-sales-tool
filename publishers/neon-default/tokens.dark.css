@@ -1,0 +1,17 @@
+/* Auto-generated for neon-default — dark mode */
+
+[data-publisher="neon-default"][data-mode="dark"] {
+  --brand-accent: #7C3AED;
+  --text-primary: #FAFAFA;
+  --text-secondary: #A1A1AA;
+  --text-disabled-opacity: 0.3;
+  --bg-primary: #09090B;
+  --bg-selected: #1E1B2E;
+  --bg-text-field: #27272A;
+  --stroke-unselected: #3F3F46;
+  --stroke-item-summary: #7C3AED;
+  --state-pass: #00B937;
+  --state-forbidden: #FF1717;
+  --drop-shadow-blur: 16px;
+  --drop-shadow-color: #27272A;
+}

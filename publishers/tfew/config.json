@@ -1,0 +1,146 @@
+{
+  "slug": "tfew",
+  "name": "TFEW Studios",
+  "gameName": "The Final Earth War",
+  "createdAt": "2026-03-03T18:35:10.100Z",
+  "updatedAt": "2026-03-03T18:35:10.100Z",
+  "products": {
+    "webshop": true,
+    "directCheckout": true,
+    "webCheckout": false
+  },
+  "preview": {
+    "passwordEnabled": true,
+    "password": "tfew2025"
+  },
+  "promo": {
+    "enabled": false,
+    "code": "",
+    "discountPercent": 0
+  },
+  "simulatedItem": {
+    "name": "500 Crystals",
+    "price": "$7.99",
+    "asset": "crystals",
+    "discountLabel": "20% OFF"
+  },
+  "freeGift": {
+    "name": "Rare Star x 3",
+    "asset": "stars"
+  },
+  "offerCards": {
+    "generated": [
+      {
+        "id": "t-1",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "BEST VALUE",
+        "discountBadge": "+35% MORE",
+        "itemName": "Commander Pack + 2500 Crystals",
+        "itemAsset": "crystals",
+        "price": "$39.99",
+        "source": "generated"
+      },
+      {
+        "id": "t-2",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+20% MORE",
+        "itemName": "1000 Crystals",
+        "itemAsset": "crystals",
+        "price": "$14.99",
+        "source": "generated"
+      },
+      {
+        "id": "t-3",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "MOST POPULAR",
+        "discountBadge": "+15% MORE",
+        "itemName": "500 Crystals",
+        "itemAsset": "crystals",
+        "price": "$7.99",
+        "selected": true,
+        "source": "generated"
+      },
+      {
+        "id": "t-4",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "itemName": "200 Crystals",
+        "itemAsset": "crystals",
+        "price": "$2.99",
+        "source": "generated"
+      },
+      {
+        "id": "t-5",
+        "layout": "vertical",
+        "backgroundStyle": "gradient",
+        "discountLabel": "EXCLUSIVE",
+        "itemName": "War Season Pass",
+        "itemAsset": "season-pass",
+        "price": "$19.99",
+        "source": "generated"
+      }
+    ],
+    "selected": [
+      {
+        "id": "t-1",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "BEST VALUE",
+        "discountBadge": "+35% MORE",
+        "itemName": "Commander Pack + 2500 Crystals",
+        "itemAsset": "crystals",
+        "price": "$39.99",
+        "source": "generated"
+      },
+      {
+        "id": "t-2",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountBadge": "+20% MORE",
+        "itemName": "1000 Crystals",
+        "itemAsset": "crystals",
+        "price": "$14.99",
+        "source": "generated"
+      },
+      {
+        "id": "t-3",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "discountLabel": "MOST POPULAR",
+        "discountBadge": "+15% MORE",
+        "itemName": "500 Crystals",
+        "itemAsset": "crystals",
+        "price": "$7.99",
+        "selected": true,
+        "source": "generated"
+      },
+      {
+        "id": "t-4",
+        "layout": "horizontal",
+        "backgroundStyle": "flat",
+        "itemName": "200 Crystals",
+        "itemAsset": "crystals",
+        "price": "$2.99",
+        "source": "generated"
+      },
+      {
+        "id": "t-5",
+        "layout": "vertical",
+        "backgroundStyle": "gradient",
+        "discountLabel": "EXCLUSIVE",
+        "itemName": "War Season Pass",
+        "itemAsset": "season-pass",
+        "price": "$19.99",
+        "source": "generated"
+      }
+    ]
+  },
+  "claudeCode": {
+    "lastRun": "2026-03-03T18:35:10.100Z",
+    "tokensExtracted": true,
+    "cardsGenerated": true
+  }
+}

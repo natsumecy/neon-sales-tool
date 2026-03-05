@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Diamond shape -->
+  <polygon points="32,4 52,24 32,60 12,24" fill="#00BFFF"/>
+  <!-- Top facets -->
+  <polygon points="32,4 52,24 32,24" fill="#87CEEB"/>
+  <polygon points="32,4 12,24 32,24" fill="#4FC3F7"/>
+  <!-- Bottom left facet -->
+  <polygon points="12,24 32,24 32,60" fill="#0099CC"/>
+  <!-- Bottom right facet -->
+  <polygon points="52,24 32,24 32,60" fill="#0077AA"/>
+  <!-- Shine -->
+  <polygon points="22,18 32,8 32,24" fill="#B3E5FC" opacity="0.6"/>
+  <polygon points="18,24 26,24 22,34" fill="#B3E5FC" opacity="0.3"/>
+</svg>
